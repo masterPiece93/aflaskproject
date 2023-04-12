@@ -1,5 +1,7 @@
 Demonstrating the best prctices for a FLASK project .
 
+Contains some sample projects ( bare-bones ) with directory structure
+
 -------
 INDEX :
 -------
